@@ -47,7 +47,7 @@ File: `human-eval/human_eval/config.py`
 
 ### 2️⃣ Navigate to the analysis folder  
    ```bash
-   cd functionalAnalysis/human-eval/
+   cd functionalityAnalysis/human-eval/
    ```  
 
 ### 3️⃣ Build the Docker image  
@@ -82,8 +82,9 @@ This project enables the **functional analysis of poisoned models** by evaluatin
 
 ---
 
-📌 **Author:** _[Simos Proikakis]_  
-📌 **Related Project:** [_Data Poisoning Attack on LLM: Analysis]((https://github.com/SimosPrks/Analysis-of-Data-Poisoning-Attacks-on-Code-LLMs), [_Data Poisoning Attack on LLM: Demo]((https://github.com/SimosPrks/Demo-of-Data-Poisoning-Attack-on-LLM)  
+📌 **Author:** _Simos Proikakis_  
+📌 **Related Project:** [_Data Poisoning Attack on LLM: Analysis]((https://github.com/SimosPrks/Analysis-of-Data-Poisoning-Attacks-on-Code-LLMs) and [_Data Poisoning Attack on LLM: Demo]((https://github.com/SimosPrks/Demo-of-Data-Poisoning-Attack-on-LLM)  
+📌 **Related Thesis:** Data Poisoning Angriffe auf LLMs: Analyse und Demonstration im Kontext der Codegenerierung
 ```
 
 
