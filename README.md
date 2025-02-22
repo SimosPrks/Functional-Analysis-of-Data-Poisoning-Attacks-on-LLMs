@@ -58,7 +58,7 @@ File: `human-eval/human_eval/config.py`
 ### 4️⃣ Run the container  
 Replace `C:\Users\proik\functionalityAnalysis\human-eval` with your **local project path**:  
    ```bash
-   docker run -it --rm -v C:\Users\proik\functionalityAnalysis\human-eval:/app/human-eval human-eval bash
+   docker run -it --rm -v C:\Users\proik\Functional-Analysis-of-Data-Poisoning-Attacks-on-LLMs\human-eval:/app/human-eval human-eval bash
    ```  
 
 ### 5️⃣ Inside the container, navigate to the project folder  
